@@ -1,21 +1,12 @@
 ---
 layout: page
-title: About Emerald
+title: About 
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+My name is Jeffrey Wilson, an anthropology student at the University of Victoria.  Throughout the semester my class and I have explored the world of digital archaeology, especially in application of digital technologies in the field of archaeology.  Archaeology has come a long way in terms of digital technology uses, though there are many avenues in which archaeology could venture towards.  Photogrammetry is a digital technology that can be used for taking 3d images, though this project focuses on the future of photogrammetry, and possible uses it could give the archaeological community.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+Archaeology is traditionally known as an academic discipline.  Throughout the development of capitalist economies and digital technologies, there is a development in the field of archaeology.   Digital archaeology is a platform in which archaeologists can create interactive and engaging experience for the general public, not just the archaeology community.  There are multiple ways that archaeologists can convey the message of their experiences in a concise and fun way for people to enjoy.  The future of archaeology must include the uses of digital technologies to reach out the general public, and build interest for future archaeologists.
+
 
 ![Emerald](img/Emerald01.png "Emerald")
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
