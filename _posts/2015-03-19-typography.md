@@ -1,5 +1,5 @@
 ---
-title: Future of Photogrammetry
+title: Future of Photogrammetry, Archaeology, and Digital Application to the Field
 ---
 # An Example of the Future in Digital Technologies Application to Archaeolgy
 
@@ -43,3 +43,48 @@ Drap, Pierre, Djamel Merad, Amine Mahiddine, Julien Seinturier, Daniela Peloso, 
 Fussell, Angela. 1982. "Terrestrial Photogrammetry in Archaeology." World Archaeology 14 (2): 157-172. Stable URL: http://www.jstor.org.ezproxy.library.uvic.ca/stable/124272.
 
 Gruen, Armin. 2012. "Development and Status of Image Matching in Photogrammetry." The Photogrammetric Record 27 (137): 36-57. http://onlinelibrary.wiley.com.ezproxy.library.uvic.ca/doi/10.1111/j.1477-9730.2011.00671.x/abstract.
+
+
+# The Future of Digital Archaeology: Ethical, Sustainable, and Responsible
+
+# Accessibility, Ethics, and Responsibility
+
+Unquestionably, digital archaeology will be more available to the public.  Many of the I findings of archaeological discoveries have been printed in newspapers, journal articles, and more recently social media.  Technology has driven our society towards an internet fueled information sharing community.  However, there are issues surrounding this idea of information sharing in terms of archaeology.  The further sharing and technology based information must be controlled by the archaeologists themselves.  Misinformation is a large issue in the world of social media, and to ethically convey an informative message, there must be the proper research accomplished before sharing such information.  Opposed to “clickbait” type information, archaeology must engage people in an engaging way, but at the same time keep the content intelligent and well informed.
+
+In order to keep the field of archaeology responsible and sustainable, content should be fact-checked before posting them online.  This is done already in large corporations, and academics of archaeology should be held to the same standard.  The digitalization of archaeology seems inevitable.  It is up to the public and archaeologists to hold themselves accountable for the content they wish to share with the internet community.  
+
+## Archaeological Social Media
+
+Engagement is another issue in the field of archaeology.  3d modeling and photogrammetry have the potential to create an interactive and engaging tool for sharing messages of archaeology with the public.  In order to accomplish this, a connection to the community must be built.  When I say connection, I mean both between archaeologists and the community; along with more communication between archaeologists in general.  The connect between Archaeologists stems from educational institutions, personal connections, and through peer reviewed journals.  In order to gain proper communication between all parties, I suspect that there will be a form of web connection that incorporates all current archaeological studies. This may not happen within the next 5 years, but I propose that there will be a form of social media for the field of archaeology.  Archaeologists, among other professionals use LinkedIn as a professional form of social networking, and one can only assume some make use of other forms of social media (Facebook, Twitter, Instagram ect.).  These are well known and far reaching websites that allow for social and professional connection.  I searched far and wide, though the community on LinkedIn as far as Anthropology/Archaeology) are concerned are limited.  Digital archaeology is something I had never considered before taking a digital archaeology class at UVIC.  Having a professional outlet that allows for connection can be a great benefit, and having a personalized website for Anthropologists and Archaeologists alike would increase the basis for communication.
+
+
+Below is an example of what an archaeological social media focused page could look like.
+![Emerald](img/new-piktochart_836_d31d1de69e6d1726486feaccda917ac408e7e4ae.png "piktochartsm")
+
+
+# 360 Degree Cameras
+
+
+# 3D Cameras can archaeologists afford them?
+
+360 degree cameras have been around for a few years now.  They come in multiple sizes, qualities and prices rangs.  For the purpose of introducing them into archaeology there are a number of models that archaeologists may want to look into.
+
+An example of a cheaper model is the Samsung's Gear 360, which has a front and back facing cameras.  The model is small, compact, and could be a good device for use in the field.  With a pricetag going from $300-$500 USD, the samsung model is much easier to access.  additionally, there are other companies selling handhelp 360 cameras for under $200, for example the LG 360 CAM goes for under $150 USD.  The LG model is a handheld camera that contains a fisheye lens.  The third option that I have looked into is the Sphericam 2, which is on a kickstarting campaign.  The goal of the sphericam 2 is to have a higher quality camera, in a sphere shaped device to get a full 360 view of any space.
+
+Gear 360
+![Emerald](img/gear360.jpg "gear360")
+LG 360 CAM
+![Emerald](img/lg-360-cam.jpg "LG360CAM")
+Sphereicam
+![Emerald](img/IMG_6856_r1.png "sphericam")
+
+# Critical Reflection
+
+	For my final project, I decided to focus on the plausible near future of digital archaeology and the possible application of technologies that are just becoming more accessible to the general public (and thus archaeologists).  Initially I wanted to focus solely on the community connection between the archaeology community (both with within the community and general public), but felt like there are many reasons why this would not work at this point in time.  To create a buzz like a social media site, there needs to be a large factor of demand in the field itself.  To create that demand I propose creating an engaging virtual tour system of Paleolithic cave art to get the ball rolling.  Virtual tours made accessible to the public for free may very well create a demand for additional archaeological content.
+	The plausible idea of application in digital technology is an advancement in photogrammetry.  I searched for evidence of someone trying to use a 360-degree camera for archaeological sites and exhibits, though I was unsuccessful.  However, I did find a link of a 360-degree camera being used on an archaeological dig, which personally I find very interesting being able to “witness the action” first hand.  My idea of using multiple cameras taking a number of pictures within a confined area (like Lascaux) could give those who are unable to access the cave a personalized tour of a 3d model.  This could go one step further into a video game simulator of the 3d modeled caves.  The possibilities of the accurate 3d cave models will allow for a number of advancements in the field of archaeology.  The content of the cave can be made available to archaeologists who are unable to come out to the sites. The public can view the caves online, and may entice them to see it for themselves.  Finally, it would also bring a new kind of documentation to the archaeological record.  Maps and drawings of cave layouts are very prevalent, though a direct copy in 3D format will be a new addition to the archaeological record.  The plausibility of creating a 3D version of environments can lead to other applications of photogrammetry, such as drone use, and expansion of underwater photogrammetry.  Introduction of such technology will allow for photogrammetry to take the next step in creating full environments. 
+The second part of my final project includes the years to come once demand and engagement is accomplished. There will be an opportunity to bring people together in a form of community building like a personalized social media outlet for Anthropologists, Archaeologists, and general enthusiasts.  Building up engagement tools through current social media outlets will allow for sharing and communication between the archaeological community and the general public.  With an established combination of engagement tools and social communication, the possibility of creating a social media outlet designated towards the field of archaeology will be possible.  I created a small mock up of what a social media website for archaeology could look like.  One thing I would change about this project is the ability to actually create a log in available website for archaeologists and students to sign up for.  If I were to take on a project like this again, I would first want to become more educated on the coding side of things.  I feel like there are many opportunities to engage with the archaeological community as a student at UVIC, but I wonder about after.  If I am unable to get a job directly in archaeology, I feel like I may become less connected to the current and ongoing excavations in the world.  A social media platform based purely on archaeological academia and investigation would prove to keep myself and others involved in the field after university is at an end.
+I have involved a map, piktochart of a mock up social media page, and used the coding skills I possess to create the website about the future of archaeology.  I believe that it is important for the archaeology community to build upon itself through advancements in technology for further research purposes, and to engage the public about the interesting findings that archaeologists discover.  Future development of this project could include the application of creating this form of social connectedness, and actually building an online archaeological community.  There are many avenues for archaeologists and students to find information about current excavations, but bringing them all into one place would be an ideal situation for the archaeological community.  In order to make this happen I require more skills in coding, but when this class has come to and end, it may be an ambitious and fun side project to take on.
+ 
+
+By Jeffrey Wilson
+
